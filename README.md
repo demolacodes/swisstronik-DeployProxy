@@ -1,0 +1,2 @@
+# swisstronik-DeployProxy
+SWISSTRONIK TESTNET 2.0  DEPLOY PROXY
